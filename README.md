@@ -20,6 +20,18 @@ Outcome
 
 ![image](https://github.com/ChaiouraMohammed/ML_Prototype-WebApps/assets/91562298/2e7c1b60-646f-423e-9f89-e097bc58011c)
 
+
 After cleaning our Dataset and training the modele , this the result of the predictions prices car 
 
 ![image](https://github.com/ChaiouraMohammed/ML_Prototype-WebApps/assets/91562298/29dd3f1a-3433-4d4e-8ba0-01cd70066517)
+
+## What is PyScript
+PyScript is a framework that allows users to create applications in the browser using HTML’s interface. Using Python, with or without JavaScript, you can build interactive websites that don’t necessarily have to communicate with a server. Python web apps built using frameworks like Django and Flask are server based where the front-end is created in HTML and Javascript while the back end is Python running on a remote server. PyScript uses HTML to construct the user interface but Javascript is replaced with Python.
+
+PyScript : https://github.com/ibm-developer-skills-network/pyscript-gp 
+
+```
+git clone https://github.com/ibm-developer-skills-network/pyscript-gp
+```
+
+
